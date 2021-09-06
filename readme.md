@@ -53,7 +53,7 @@ cd ..
 Optional) Download our pretrained classifiers.
 ```
 # Note: For CIFAR 10 model, please check the detailed architecture in mister_ed/cifar10/cifar_resnets.py
-wget https://umich.box.com/shared/static/yqhw98cu06udggbuygzupo1kvdf2gszk.zip -O evaluation.zip --no-check-certificate
+wget https://www.dropbox.com/s/cnw79x2mv4qffw4/evaluation.zip -O evaluation.zip --no-check-certificate
 unzip evaluation.zip
 ```
 
